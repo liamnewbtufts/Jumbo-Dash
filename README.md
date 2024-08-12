@@ -2,7 +2,12 @@
 
 This project is a game where the user jumps over obstacles to get to the end of the level. It is GUI based. 
 
-## Installation:
+## Run the game (Windows only):
+
+Download the zip file titled "JD EXE" and extract it onto your computer.
+Simply run the file name "Jumbo Dash.exe" and the app will run.
+
+## Manual installation:
 
 You can install our code by downloading it from github.
 You also must download the newest version of Python.
