@@ -1,4 +1,4 @@
-# Jumbo Run
+# Jumbo Dash
 
 This project is a game where the user jumps over obstacles to get to the end of the level. It is GUI based. 
 
